@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Islam Mohamed</h1>
-<h3 align="center">A passionate MERN Stack developer from Egypt</h3>
+<h3 align="center">A passionate Front-End developer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=islammohamed29&label=Profile%20views&color=0e75b6&style=flat" alt="islammohamed29" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=islammohamed29" alt="islammohamed29" /></a> </p>
 
-- 🌱 I’m currently learning **NestJS**
+- 🌱 I’m currently learning **Redux**
 
 - 👨‍💻 All of my projects are available at [https://islammohamed29.github.io/portfolio](https://islammohamed29.github.io/portfolio)
 
-- 💬 Ask me about **react, nodeJS**
+- 💬 Ask me about **react, JS**
 
 - 📫 How to reach me **https://bio.link/islammohamed**
 
